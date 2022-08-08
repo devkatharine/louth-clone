@@ -10,7 +10,7 @@ p{
 
 h1{
   font-family: 'Playfair Display', serif;
-  font-size: 30px;
+  font-size: 60px;
   font-weight: bold;
 }
 
@@ -26,7 +26,7 @@ h1{
   border: 0.5px solid rgba(0, 0, 0, 0.555);
   background-color: white;
   text-align: left;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .button-filtro {
@@ -37,5 +37,34 @@ h1{
   border: 0.5px solid rgba(0, 0, 0, 0.555);
   background-color: white;
   text-align: left;
-  font-size: 20px;
+  font-size: 22px;
 }
+
+.tenis{
+  background-color: white;
+  padding: 30px;
+  margin: 40px;
+  box-shadow: 2px 2px 5px 5px rgba(27, 25, 25, 0.041)
+}
+
+.button-bag{
+  background-color: #FFAD56;
+  border-radius: 30px;
+  padding: 10px;
+  border: 0;
+  cursor: pointer;
+}
+
+h2{
+  font-family: 'Playfair Display', serif;
+
+}
+
+.preco{
+  color: #FFAD56;
+  font-family: 'Lato', sans-serif;
+  
+  
+  
+}
+

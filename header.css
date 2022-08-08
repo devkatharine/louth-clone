@@ -15,4 +15,7 @@ header{
   text-align: center;
   padding: 37px;
 }
-
+ #logo{
+  width: 220px;
+  margin: 10px;
+ }
