@@ -10,9 +10,32 @@ p{
 
 h1{
   font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 .tenis{
   text-align: center;
   margin: auto;
+}
+
+.button-filtrar{
+  width: 210px;
+  padding: 15px;
+  border-radius: 30px;
+  border: 0.5px solid rgba(0, 0, 0, 0.555);
+  background-color: white;
+  text-align: left;
+  font-size: 20px;
+}
+
+.button-filtro {
+  width: 400px;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 30px;
+  border: 0.5px solid rgba(0, 0, 0, 0.555);
+  background-color: white;
+  text-align: left;
+  font-size: 20px;
 }
