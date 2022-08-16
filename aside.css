@@ -5,3 +5,46 @@ aside {
   z-index: 999;
   display: flex;
 }
+
+input {
+  width: 300px;
+  padding: 25px;
+}
+
+#menu-opener {
+  width: 0px;
+  height: 40px;
+  cursor: pointer;
+  margin-top: 0px;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+#menu-area {
+  width: 0;
+  height: 100vh;
+  padding: 100px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: all ease 0.5s;
+font-weight: bold;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+}
+
+#menu-area ul,
+#menu-area li {
+  padding: 0px;
+  list-style: none;
+}
+
+#menu-area li:hover {
+  background-color: #ddd;
+}
+
+.menu-opened {
+  width: 400px  !important;
+}
