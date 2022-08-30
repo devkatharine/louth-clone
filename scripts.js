@@ -8,3 +8,4 @@ menuArea.classList.remove('menu-opened');
    menuArea.classList.add('menu-opened');
   }
 }
+
